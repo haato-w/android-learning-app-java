@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">一問一答</string>
+    <string-array name="lv_subject">
+        <item>中1 地理</item>
+        <item>中1 歴史</item>
+        <item>中2 地理</item>
+        <item>中2 歴史</item>
+    </string-array>
+    <string-array name="lv_field_geo1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="lv_field_histo1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="lv_field_geo2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="lv_field_histo2">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string name="interruption_option">中断</string>
+    <string name="bt_exit_look_back">終了</string>
+</resources>
